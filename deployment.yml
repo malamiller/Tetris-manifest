@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: pardeepkaur/hotstar:latest
+        image: pardeepkaur/reddit:latest
         ports:
         - containerPort: 3000   # Use port 3000
 
